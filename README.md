@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ambanimelphas
 
 <!---
-ambanimelphas.com
+ambanimelphas
 --->
